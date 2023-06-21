@@ -22,10 +22,6 @@ Here's a basic description of how you can implement a simple quiz in JavaScript:
 
 This is a high-level overview of how a simple quiz in JavaScript can be implemented. The specific implementation details may vary based on your requirements and the programming environment you are using.
 
-#Language Used
-     *HTML
-     *CSS
-     *JavaScript
 
 
 
